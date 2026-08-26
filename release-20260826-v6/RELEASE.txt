@@ -1,5 +1,0 @@
-Chain Court 3v3 — Godot Web release v6
-
-Source commit: a02e4ad62776730fa8581a8e935ed90b0a1616be
-Engine: Godot 4.7.2
-Export: Web, single-threaded Compatibility renderer
